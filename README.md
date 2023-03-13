@@ -7,4 +7,15 @@
 
 🕶 I have studied Language Technologies for Conversational Interfaces at the Cálamo & Cran Academy, where I gained technical skills in Dialogflow management, dialogue flow creation, conversational interface training, and chatbot creation and integration. In addition, I am currently self-studying Big Data and programming with HTML and Python. 
 
+<br>
+<hr>
 
+<h4>Skills</h4>
+<ul style="list-style-type:disc">
+  <li>Dialogflow</li>
+  <li>Conversational interface design.</li>
+  <li>Dialogue flow creation.</li>
+  <li>Chatbot creation and integration.</li>
+  <li>Basic programming knowledge: Python and HTML.</li>
+  <li>In-depth understanding of the English and Spanish languages  structure.</li>
+</ul>
